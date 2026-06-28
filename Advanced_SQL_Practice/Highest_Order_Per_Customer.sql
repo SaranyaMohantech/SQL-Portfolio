@@ -31,5 +31,4 @@ Skills used:
 MAX()
 Window Functions
 CTE
-
 */
