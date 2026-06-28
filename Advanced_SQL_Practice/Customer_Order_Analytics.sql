@@ -18,3 +18,22 @@ SELECT
     avg_order_amount
 FROM cte
 WHERE rn = 1;
+
+
+
+/*
+Business Requirement:
+
+Generate customer-level summary showing:
+
+- Total Orders
+- Total Amount Spent
+- Average Order Value
+
+Skills Used:
+
+- CTE
+- Window Functions
+- ROW_NUMBER
+- Aggregations
+*/
