@@ -24,7 +24,6 @@ ORDER BY customer_name, amount DESC;
 
 
 /*
-
 Business Requirement:
 
 Retrieve the top 2 highest-value orders for each customer.
@@ -34,5 +33,4 @@ Skills used:
 CTE
 RANK()
 Window Functions
-
 */
